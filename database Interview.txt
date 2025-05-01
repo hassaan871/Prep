@@ -1,0 +1,31 @@
+What is the difference between a primary key and a foreign key in a database?
+What is normalization in DBMS, and why is it important?
+Can you explain the ACID properties in the context of DBMS?
+What is an Entity-Relationship (ER) model, and why is it used in database design?
+What is a database index, and how does it improve query performance?
+What is the difference between DELETE, TRUNCATE, and DROP commands in SQL?
+What is a view in SQL? How is it different from a table?
+What is a materialized view, and how does it differ from a regular view?
+What are joins in SQL? Can you explain the difference between INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN?
+What is a transaction in DBMS? Can you describe its lifecycle?
+What is the difference between clustered and non-clustered indexes?
+What is the difference between WHERE and HAVING clauses in SQL?
+What is the purpose of the GROUP BY clause in SQL? Can you provide an example?
+What are DDL, DML, DQL, DCL, TCL?
+What is a subquery in SQL? How is it different from a JOIN?
+What is a constraint in SQL? Can you name and briefly explain a few common constraints?
+What is a stored procedure? How is it different from a function in SQL?
+What is a deadlock in DBMS? How can it be prevented or resolved?
+What is a deadlock in DBMS? How can it be prevented or resolved?
+What is denormalization, and when would you consider using it?
+What is the difference between a candidate key and a super key in DBMS?
+Explain the concept of referential integrity with an example.
+What is a trigger in SQL? When would you use it?
+What are anomalies in DBMS? Briefly describe insertion, update, and deletion anomalies.
+What are partial, trasitive and functional dependencies? Can you provide an example.
+What are different datatypes in sql?
+What is the purpose of the GROUP BY clause in SQL? Can you provide an example?
+What is the difference between IS NULL and = NULL in SQL?
+What is the purpose of the UNION operator in SQL? How does it differ from UNION ALL?
+What is the difference between CHAR and VARCHAR data types in SQL?
+how and when to use stored procedures and triggers?
