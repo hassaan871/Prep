@@ -29,3 +29,4 @@ What is the difference between IS NULL and = NULL in SQL?
 What is the purpose of the UNION operator in SQL? How does it differ from UNION ALL?
 What is the difference between CHAR and VARCHAR data types in SQL?
 how and when to use stored procedures and triggers?
+What is Cascading Referential integrity constraint?
