@@ -1,0 +1,12 @@
+Whats the difference between the ORM and driver?
+Aggregation request returns cursor from the server. Explain?
+What is aggregation stage and which aggregation stages exists in the aggregation framework ??
+What are aggregation stage operators?
+What are aggregate expressions?
+Why Aggregation is More Efficient?
+What are accumulative operators in aggregations and on what stage they should be used?
+What is $match Stage?
+Which query operators are supported the $match stage of the mongodb's aggregation framework?
+what should be the first stage in a MongoDB aggregation pipeline for optimal performance?
+What are query operators in aggregation?
+
